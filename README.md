@@ -2,7 +2,7 @@
 
 *Abstract*:
 
-A C# console application that takes in a CSV file of passenger lift requests, implements the elevator algorithm used in modern lift systems, and outputs results and statistical analysis to an output CSV file.   
+A C# application implementing an advanced elevator scheduling algorithm that optimally services all passenger requests. The program calculates the total time taken and provides in-depth analytics on operational efficiency, including detailed metrics for performance evaluation.  
 
 ## Introduction
 
