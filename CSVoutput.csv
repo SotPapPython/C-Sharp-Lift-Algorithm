@@ -1,0 +1,174 @@
+Current Time,Lift Floor,Passengers In Lift,Floor Queue
+5,1,"","2"
+15,2,"1","1"
+25,1,"2","9"
+35,2,"2","9,10"
+45,3,"2","8,9,10"
+55,4,"2","8,9,10"
+65,5,"2","8,9,10"
+75,6,"2","8,9,10"
+85,7,"2","8,9,10"
+95,8,"2,4,7","9,10,2"
+105,9,"4,7","10,8,3,2"
+115,10,"3","8,6,5,3,2"
+125,9,"3","8,6,5,3,2"
+135,8,"3,5,6,8,12","6,5,4,3,2,1"
+145,7,"3,5,6,8,12","6,5,4,3,2,1"
+155,6,"3,5,6,8,12,11","5,4,3,2,1"
+165,5,"5,6,8,12,11","4,3,2,1,6"
+175,4,"6,8,12,11","3,2,1,5,6,9"
+185,3,"6,12,11","2,1,5,6,9"
+195,2,"12,9","1,3,5,6,9"
+205,1,"13","2,3,5,6,9"
+215,2,"13,18,19","3,5,6,9"
+225,3,"13,18,19,10,17,20","5,6,7,9,10"
+235,4,"13,18,19,10,17,20","5,6,7,9,10"
+245,5,"13,18,19,10,17,20,14","6,7,9,10"
+255,6,"13,19,10,17,20,15","7,8,9,10"
+265,7,"13,19,20,15","8,9,10,2"
+275,8,"13,19,20","9,10,7,2"
+285,9,"20","10,8,7,6,2"
+295,10,"21","9,8,7,6,5,2"
+305,9,"21,16,22","8,7,6,5,4,2"
+315,8,"21,16,22,24","7,6,5,4,2,9"
+325,7,"21,16,22,23","6,5,4,2,9"
+335,6,"21,16,22,23,26,30","5,4,3,2,9,10"
+345,5,"16,22,23,30","4,3,2,7,9,10"
+355,4,"23,30,33","3,2,7,9,10"
+365,3,"23,33","2,4,7,8,9,10"
+375,2,"25,27","4,7,8,9,10"
+385,3,"25,27","4,5,7,8,9,10"
+395,4,"25,27,28","5,7,8,9,10,2"
+405,5,"25,27,28","7,8,9,10,2"
+415,6,"25,27,28","7,8,9,10,5,2"
+425,7,"25,28,32","8,9,10,6,5,3,2"
+435,8,"25,32","9,10,6,5,4,3,2"
+445,9,"32,35","10,8,6,5,4,3,2"
+455,10,"31,43","9,8,7,6,5,4,3,2,1"
+465,9,"31,43,29","8,7,6,5,4,3,2,1"
+475,8,"31,43,29,34,40","7,6,5,4,3,2,1"
+485,7,"31,43,40,44","6,5,4,3,2,1"
+495,6,"31,43,40,44,39,46","5,4,3,2,1"
+505,5,"31,43,40,44,46,36,38","4,3,2,1,6,10"
+515,4,"31,43,40,44,36","3,2,1,5,6,10"
+525,3,"43,40","2,1,4,5,6,10"
+535,2,"43","1,3,4,5,6,10"
+545,1,"","2,3,4,5,6,10"
+555,2,"37,50","3,4,5,6,10"
+565,3,"37,50,41","4,5,6,9,10"
+575,4,"37,50,41,42,48","5,6,7,9,10"
+585,5,"50,41,42,48,45","6,7,9,10"
+595,6,"41,42,48,45,47","7,9,10"
+605,7,"41,42,47","9,10"
+615,8,"41,42,47","9,10"
+625,9,"42","10"
+635,10,"49","7"
+645,9,"49","7"
+655,8,"49","7"
+665,7,"",""
+Passenger 1 spent 10 seconds in the lift.
+Passenger 2 spent 80 seconds in the lift.
+Passenger 4 spent 20 seconds in the lift.
+Passenger 7 spent 20 seconds in the lift.
+Passenger 3 spent 50 seconds in the lift.
+Passenger 5 spent 40 seconds in the lift.
+Passenger 8 spent 50 seconds in the lift.
+Passenger 6 spent 60 seconds in the lift.
+Passenger 11 spent 40 seconds in the lift.
+Passenger 12 spent 70 seconds in the lift.
+Passenger 9 spent 10 seconds in the lift.
+Passenger 18 spent 40 seconds in the lift.
+Passenger 14 spent 10 seconds in the lift.
+Passenger 10 spent 40 seconds in the lift.
+Passenger 17 spent 40 seconds in the lift.
+Passenger 15 spent 20 seconds in the lift.
+Passenger 13 spent 80 seconds in the lift.
+Passenger 19 spent 70 seconds in the lift.
+Passenger 20 spent 70 seconds in the lift.
+Passenger 24 spent 10 seconds in the lift.
+Passenger 21 spent 50 seconds in the lift.
+Passenger 26 spent 10 seconds in the lift.
+Passenger 16 spent 50 seconds in the lift.
+Passenger 22 spent 50 seconds in the lift.
+Passenger 30 spent 30 seconds in the lift.
+Passenger 23 spent 50 seconds in the lift.
+Passenger 33 spent 20 seconds in the lift.
+Passenger 27 spent 50 seconds in the lift.
+Passenger 28 spent 40 seconds in the lift.
+Passenger 25 spent 70 seconds in the lift.
+Passenger 32 spent 30 seconds in the lift.
+Passenger 35 spent 10 seconds in the lift.
+Passenger 29 spent 20 seconds in the lift.
+Passenger 34 spent 10 seconds in the lift.
+Passenger 39 spent 10 seconds in the lift.
+Passenger 46 spent 20 seconds in the lift.
+Passenger 38 spent 10 seconds in the lift.
+Passenger 31 spent 70 seconds in the lift.
+Passenger 44 spent 40 seconds in the lift.
+Passenger 36 spent 20 seconds in the lift.
+Passenger 40 spent 60 seconds in the lift.
+Passenger 43 spent 90 seconds in the lift.
+Passenger 37 spent 30 seconds in the lift.
+Passenger 50 spent 40 seconds in the lift.
+Passenger 48 spent 30 seconds in the lift.
+Passenger 45 spent 20 seconds in the lift.
+Passenger 41 spent 60 seconds in the lift.
+Passenger 47 spent 30 seconds in the lift.
+Passenger 42 spent 60 seconds in the lift.
+Passenger 49 spent 30 seconds in the lift.
+"Maximum travel time: 90 seconds, Minimum travel time: 10 seconds, Average travel time: 38.8 seconds"
+Passenger 1 waited 10 seconds for the lift.
+Passenger 2 waited 8 seconds for the lift.
+Passenger 4 waited 54 seconds for the lift.
+Passenger 7 waited 24 seconds for the lift.
+Passenger 3 waited 83 seconds for the lift.
+Passenger 5 waited 94 seconds for the lift.
+Passenger 6 waited 77 seconds for the lift.
+Passenger 8 waited 57 seconds for the lift.
+Passenger 12 waited 10 seconds for the lift.
+Passenger 11 waited 42 seconds for the lift.
+Passenger 9 waited 103 seconds for the lift.
+Passenger 13 waited 66 seconds for the lift.
+Passenger 18 waited 18 seconds for the lift.
+Passenger 19 waited 9 seconds for the lift.
+Passenger 10 waited 124 seconds for the lift.
+Passenger 17 waited 42 seconds for the lift.
+Passenger 20 waited 5 seconds for the lift.
+Passenger 14 waited 101 seconds for the lift.
+Passenger 15 waited 99 seconds for the lift.
+Passenger 21 waited 61 seconds for the lift.
+Passenger 16 waited 134 seconds for the lift.
+Passenger 22 waited 64 seconds for the lift.
+Passenger 24 waited 56 seconds for the lift.
+Passenger 23 waited 77 seconds for the lift.
+Passenger 26 waited 57 seconds for the lift.
+Passenger 30 waited 11 seconds for the lift.
+Passenger 33 waited 4 seconds for the lift.
+Passenger 25 waited 116 seconds for the lift.
+Passenger 27 waited 88 seconds for the lift.
+Passenger 28 waited 98 seconds for the lift.
+Passenger 32 waited 81 seconds for the lift.
+Passenger 35 waited 69 seconds for the lift.
+Passenger 31 waited 122 seconds for the lift.
+Passenger 43 waited 12 seconds for the lift.
+Passenger 29 waited 153 seconds for the lift.
+Passenger 34 waited 112 seconds for the lift.
+Passenger 40 waited 51 seconds for the lift.
+Passenger 44 waited 32 seconds for the lift.
+Passenger 39 waited 82 seconds for the lift.
+Passenger 46 waited 18 seconds for the lift.
+Passenger 36 waited 121 seconds for the lift.
+Passenger 38 waited 102 seconds for the lift.
+Passenger 37 waited 162 seconds for the lift.
+Passenger 50 waited 45 seconds for the lift.
+Passenger 41 waited 141 seconds for the lift.
+Passenger 42 waited 144 seconds for the lift.
+Passenger 48 waited 81 seconds for the lift.
+Passenger 45 waited 120 seconds for the lift.
+Passenger 47 waited 108 seconds for the lift.
+Passenger 49 waited 133 seconds for the lift.
+"Maximum wait time: 162 seconds, Minimum wait time: 4 seconds, Average wait time: 73.62 seconds"
+Median travel time of 40 seconds
+Median wait time of 77 seconds
+Lift traveled upwards for 360 seconds (54.55%) & downwards for 300 (45.45%)
+There were a total of 9 direction changes
